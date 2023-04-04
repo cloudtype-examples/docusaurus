@@ -29,4 +29,4 @@ React 기반으로 작성된 문서작성 정적 사이트 템플릿입니다.
 
 ## 📄 License
 
-[MIT](https://github.com/laravel/laravel#readme)
+[MIT](https://github.com/facebook/docusaurus/blob/main/LICENSE)
