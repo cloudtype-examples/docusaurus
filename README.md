@@ -1,41 +1,32 @@
-# Website
+<br/>
+<br/>
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+<p align="center">
+<img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
+</p>
 
-### Installation
+<br/>
+<br/>
 
-```
-$ yarn
-```
+# Docusaurus
 
-### Local Development
+React 기반으로 작성된 문서작성 정적 사이트 템플릿입니다.
 
-```
-$ yarn start
-```
+## 🖇️ 준비 및 확인사항
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### 지원 Node 버전
+- Node 16.14 이상
 
-### Build
 
-```
-$ yarn build
-```
+## 💬 문제해결
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+- [클라우드타입 Docs](https://docs.cloudtype.io/)
 
-### Deployment
+- [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
 
-Using SSH:
+- [Discord](https://discord.gg/U7HX4BA6hu)
 
-```
-$ USE_SSH=true yarn deploy
-```
 
-Not using SSH:
+## 📄 License
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+[MIT](https://github.com/laravel/laravel#readme)
